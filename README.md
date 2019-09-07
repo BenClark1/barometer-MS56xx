@@ -7,4 +7,4 @@ I am always trying to learn from my mistakes, so please [provide feedback or sug
 Patrick Chizek
 
 ### Acknowledgements
-Thanks to Patrick Chizek for mentoring me.
+Thanks to [Patrick Chizek](https://github.com/pchizek) for mentoring me.
